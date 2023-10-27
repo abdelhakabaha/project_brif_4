@@ -1,2 +1,3 @@
-# project_jeux
-un jeux simple pour travail en group 
+# project_brif_4
+un site wib d'un restorante 
+
